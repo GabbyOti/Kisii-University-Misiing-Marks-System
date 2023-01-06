@@ -1,4 +1,4 @@
-﻿namespace KIBABIIUNIVERSITYMISSING_MARKS
+﻿namespace KISIIUNIVERSITYMISSING_MARKS
 {
     partial class Form1
     {
